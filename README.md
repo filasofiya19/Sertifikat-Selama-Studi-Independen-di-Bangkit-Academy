@@ -12,12 +12,16 @@ Berikut Course- course yang saya ikuti:
 *	Belajar Analisis Data dengan Python
   
 ## Coursera
-* Google IT Automation with Python Professional Certificate* Crash Course on Python
+### Google IT Automation with Python Professional Certificate
+* Crash Course on Python
 *	Using Python to Interact with the Operating System
 *	Introduction to Git and GitHub
+
+### Google Data Analytics Professional Certificate
 *	Process Data from Dirty to Clean
 * Analyze Data to Answer Questions
 *	Share Data Through the Art of Visualization
+  
 ### Mathematics for Machine Learning and Data Science
 * Linear Algebra for Machine Learning and Data Science
 * Calculus for Machine Learning and Data Science
@@ -35,6 +39,7 @@ Berikut Course- course yang saya ikuti:
 * Natural Language Processing in TensorFlow
 * Sequences, Time Series and Prediction
 
+
 *	Structuring ML Projects
 
 ### TensorFlow: Data and Deployment Specialization
@@ -48,5 +53,6 @@ Berikut Course- course yang saya ikuti:
 *	Custom and Distributed Training with TensorFlow
 *	Advanced Computer Vision with TensorFlow
 *	Generative Deep Learning with TensorFlow
-  
+
+
 *	Generative AI for Everyone
